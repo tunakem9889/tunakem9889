@@ -57,10 +57,6 @@
 ### 🔹 Streak Stats  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunakem9889&theme=dark&hide_border=true)
 
-### 🔹 WakaTime (If using WakaTime)  
-> Replace `your.wakatime.username` if you use WakaTime  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your.wakatime.username&range=last_7_days&hide_title=true&theme=dark)
-
 ---
 
 ## 🚀 Current Projects
